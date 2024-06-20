@@ -20,4 +20,4 @@ Formado em engenharia de telecomunicações pelo Instituto Nacional de Telecomun
 
 ### Redes Sociais 📑
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/milanfranzoni/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
