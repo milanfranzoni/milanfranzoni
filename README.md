@@ -20,4 +20,5 @@ Formado em engenharia de telecomunicações pelo Instituto Nacional de Telecomun
 
 ### Redes Sociais 📑
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/milanfranzoni/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-milan-franzoni-362622211/)
 
