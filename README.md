@@ -19,5 +19,5 @@ Formado em engenharia de telecomunicações pelo Instituto Nacional de Telecomun
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ### Redes Sociais 📑
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/milanfranzoni/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)] (https://www.instagram.com/milanfranzoni/)
 
